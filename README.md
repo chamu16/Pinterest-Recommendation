@@ -1,4 +1,4 @@
-# Pinterest-recommendation
+# Pinterest recommendation
 
 ### Introduction
 
