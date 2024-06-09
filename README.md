@@ -1,4 +1,4 @@
-# Pinterest-pin-scraping
+# Pinterest-recommendation
 
 ### Introduction
 
