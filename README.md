@@ -16,7 +16,7 @@ Pinterest is a visual discovery engine for finding ideas such as recipes, home a
 
 
 
-## Results and Discussions
+## Result and Discussions
 
 ●	The Discovery team provides recommendations, related content, and predicts the likelihood that a person will Pin content.
 
